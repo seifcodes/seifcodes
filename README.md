@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Seif Eldeen 👋
 
-<!--
-**seifcodes/seifcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Learning C++ and Web Development  
+🚀 Interested in Full Stack Development  
 
-Here are some ideas to get you started:
+## Skills
+- C++
+- HTML
+- CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+- Improve problem solving
+- Build projects
+- Join ITI / NTI
